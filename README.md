@@ -16,3 +16,4 @@ This project showcases:
 
 4.Automation – end-to-end pipeline with zero manual intervention.
 
+<img width="1101" height="521" alt="Screenshot 2025-09-19 002749" src="https://github.com/user-attachments/assets/53b93ffc-f858-479b-917b-594b4562c6a2" />
